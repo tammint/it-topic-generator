@@ -12,6 +12,8 @@
 /build
 
 # misc
+adj.txt
+buzz.txt
 .DS_Store
 .env.local
 .env.development.local
